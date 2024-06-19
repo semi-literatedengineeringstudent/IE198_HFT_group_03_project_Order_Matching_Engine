@@ -1,0 +1,9 @@
+node_modules
+dist
+build
+.DS_Store
+__pycache__
+.pyc
+yarn-error.log
+initiator/logs/*
+initiator/Sessions/*
